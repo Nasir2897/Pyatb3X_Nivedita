@@ -6,4 +6,4 @@ o = sum_two(3,4)
 print(o)
 
 dell_f = lambda a, b: a + b
-print(dell_f ())
+print(dell_f(5.6,8))

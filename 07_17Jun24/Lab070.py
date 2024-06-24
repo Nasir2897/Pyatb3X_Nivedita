@@ -1,6 +1,5 @@
 # Factorial
 import math
-import math
 
 n = 5
 factorial = 1

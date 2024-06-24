@@ -1,7 +1,7 @@
 t=tuple()
 print(t)
 
-t1=tuple(["NIvediat","Nagraj","Naveen"])
+t1=tuple(["Nivedita","Nagraj","Naveen"])
 print(t1)
 
 

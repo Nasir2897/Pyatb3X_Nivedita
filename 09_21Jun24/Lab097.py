@@ -12,7 +12,7 @@ def note_time_Decorator(func):
 
 
 @note_time_Decorator
-def log_function():
+def logs_function():
     time.sleep(5)
     print("Print the logs of time taken")
 
